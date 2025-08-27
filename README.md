@@ -17,7 +17,7 @@
 
 ## 🧰 Tools & Technologies
 
-- **Languages**: Python, MATLAB, Bash
+- **Languages**: C++, Python, MATLAB, Bash
 - **Scientific Tools**: Gaussian, ORCA, AlphaFold
 - **Data Analysis**: NumPy, SciPy, Matplotlib
 - **Machine Learning**: TensorFlow, PyTorch
